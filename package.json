@@ -31,7 +31,7 @@
     "inherit": "2.2.3",
     "istanbul": "0.4.2",
     "lodash": "4.7.0",
-    "mocha-phantomjs": "3.5.3",
+    "mocha-phantomjs": "4.0.2",
     "phantomjs": "1.9.20",
     "vow": "0.4.12",
     "ym": "0.1.2"
